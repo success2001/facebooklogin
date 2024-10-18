@@ -51,9 +51,7 @@ function LoginPage() {
             </Link>
           </div>
 
-          <p className="create-page">
-            <a href="#">Create a Page</a> for a celebrity, brand, or business.
-          </p>
+          
         </div>
       </div>
     </div>
